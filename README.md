@@ -1,4 +1,4 @@
-# DevOps: Zero to Hero Accounts and Tools
+# DevOps: Zero to Hero - Accounts and Tools
 All tools needed for the DevOps: Zero to Hero course
 
 
