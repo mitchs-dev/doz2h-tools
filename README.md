@@ -33,5 +33,7 @@ All tools needed for the DevOps: Zero to Hero course
 **We will be installing these together during the mentoring**
 1. Kubernetes
    * Download: https://www.downloadkubernetes.com/
+1. Minikube
+   * Download: https://minikube.sigs.k8s.io/docs/start/#what-youll-need
 1. Ansible
    * Download: https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-ansible-on-specific-operating-systems
