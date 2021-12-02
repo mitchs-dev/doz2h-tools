@@ -16,7 +16,7 @@ All tools needed for the DevOps: Zero to Hero course
 ## Applications
 1. Virtualbox
    * Download: https://www.virtualbox.org/wiki/Downloads
-1. Vargant  
+1. Vagrant  
    * Download: https://www.vagrantup.com/downloads
 1. Docker (Docker Desktop)
    * Download: https://www.docker.com/get-started
@@ -26,8 +26,6 @@ All tools needed for the DevOps: Zero to Hero course
    * Download: https://git-scm.com/downloads
 1. Python (`3.6` or greater)
    * Download: https://www.python.org/downloads
-1. doz2h
-   * Download: https://github.com/stantonmitchell/doz2h/releases
 
 ## Guided installs
 **We will be installing these together during the mentoring**
