@@ -28,7 +28,8 @@ All tools needed for the DevOps: Zero to Hero course
    * Download: https://www.python.org/downloads
 
 ## Images
-1. [Ubuntu 20.04.3 LTS](https://ubuntu.com/download/desktop/thank-you?version=20.04.3&architecture=amd64)
+1. Ubuntu `20.04.3` LTS
+   * Download: https://ubuntu.com/download/desktop/thank-you?version=20.04.3&architecture=amd64
 
 ## Guided installs
 **We will be installing these together during the mentoring**
