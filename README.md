@@ -16,6 +16,7 @@ All tools needed for the DevOps: Zero to Hero course
 ## Applications
 1. Virtualbox
    * Download: https://www.virtualbox.org/wiki/Downloads
+      * Virtualbox Extension Pack (Not required but recommended): https://download.virtualbox.org/virtualbox/6.1.30/Oracle_VM_VirtualBox_Extension_Pack-6.1.30.vbox-extpack
 1. Vagrant  
    * Download: https://www.vagrantup.com/downloads
 1. Docker (Docker Desktop)
