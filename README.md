@@ -12,6 +12,9 @@ All tools needed for the DevOps: Zero to Hero course
    * Signup: https://portal.aws.amazon.com/billing/signup
 1. Google Cloud Platform (GCP)
    * Signup: https://cloud.google.com/
+1. Skills for All with Cisco
+   * Signup: https://skillsforall.com/course/getting-started-cisco-packet-tracer
+   * Note: Only sign up and complete enough to download Cisco Packet Tracer 
 
 ## Applications
 1. Virtualbox
