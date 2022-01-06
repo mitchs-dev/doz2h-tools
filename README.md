@@ -24,6 +24,8 @@ All tools needed for the DevOps: Zero to Hero course
    * Download: https://www.vagrantup.com/downloads
 1. Docker (Docker Desktop)
    * Download: https://www.docker.com/get-started
+1. Docker Compose
+   * Download: https://docs.docker.com/compose/cli-command/#installing-compose-v2
 
 ## Tools
 1. Git (`2.17.1` or greater)
