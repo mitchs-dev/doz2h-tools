@@ -27,6 +27,20 @@ All tools needed for the DevOps: Zero to Hero course
 1. Docker Compose
    * Download: https://docs.docker.com/compose/cli-command/#installing-compose-v2
 
+## Code Editors 
+Code editors make writing and reading code easier by differentiating objects used in different programming languages. Each code editor offers different capabilities and features from themes to version control management and beyond. You only need  to download one, but you can download more if you wish to explore different options.
+
+1. Vim (CLI Text Editor)
+   * Download: https://www.vim.org/download.php 
+1. Visual Studio Code
+   * Download: https://code.visualstudio.com/download
+1. Atom
+   * Download: https://atom.io/
+1. Sublime Text 3
+   * Download: https://www.sublimetext.com/3
+1. Notepad++ (Windows only)
+   * Download: https://notepad-plus-plus.org/downloads/
+
 ## Tools
 1. Git (`2.17.1` or greater)
    * Download: https://git-scm.com/downloads
