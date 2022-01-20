@@ -4,7 +4,7 @@ _Idea from: https://www.geeksforgeeks.org/python-program-implement-rock-paper-sc
 ## Overview
 For this lab we are going to play a game of Rock, Paper, Scissor!
 Since we are going to automate this project, we want to "simulate" a user
-So for this example, we are just going to include a "simulated user" by adding an additional 'random.randint()' function
+So for this example, we are just going to include a "simulated user" by adding an additional `random.randint()` function
 
 ## Prerequisites for all participants
 
