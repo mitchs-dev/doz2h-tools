@@ -46,3 +46,7 @@ Each person will be assigned one (or more) file(s) to complete. For `session6.py
 The person who is responsible for `CodeBlock_1.md` will be also responsible for creating and owning the source repository in GitHub (Instruction in `CodeBlock_1.md`).
 
 The person who is responsible for `Jenkinsfile.md` will be also repsonsible for managing the Jenkins controller, agent, and creating the Pipeline job to run our program. 
+
+## Example repository
+
+You can find a completed example repository here: https://github.com/stantonmitchell/stunning-potato/tree/session6-testing
