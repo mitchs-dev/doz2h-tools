@@ -26,7 +26,7 @@ Then you will be able to work on this section. **Once you have added your sectio
 
 1. `git commit  session6.py -m "Adding section <Section Number>"`
 * Make sure to replace `<Section Number>` with the number of your actual section
-1. `git push origin <branch>`
+1. `git push -u  origin <branch>`
 * Since you are pushing to your fork, you will want to use 'origin'
 
 For this section, you can adding the following file in the repository as the file named `Dockerfile`:
