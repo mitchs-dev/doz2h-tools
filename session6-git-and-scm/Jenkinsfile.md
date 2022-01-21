@@ -47,7 +47,8 @@ To get started on your section, wait for the previous section to be completed, t
 
 Then you will be able to work on this section. **Once you have added your section** to the `Jenkinsfile` file, run these commands:
 
-1. `git commit  session6.py -m "Adding section <Section Number>"`
+1. `git add  Jenkinsfile`
+1. `git commit  Jenkinsfile -m "Adding section <Section Number>"`
 * Make sure to replace `<Section Number>` with the number of your actual section
 1. `git push -u  origin <branch>`
 * Since you are pushing to your fork, you will want to use 'origin'
