@@ -23,8 +23,8 @@ To get started on your section, wait for the previous section to be completed, t
 1. You will be working on this by yourself so go ahead and make the `Dockerfile` file
 
 Then you will be able to work on this section. **Once you have added your section** to the `Dockerfile` file, run these commands:
-
-1. `git commit  session6.py -m "Adding section <Section Number>"`
+1. `git add  Dockerfile`
+1. `git commit  Dockerfile -m "Adding section <Section Number>"`
 * Make sure to replace `<Section Number>` with the number of your actual section
 1. `git push -u  origin <branch>`
 * Since you are pushing to your fork, you will want to use 'origin'
