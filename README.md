@@ -57,5 +57,7 @@ Code editors make writing and reading code easier by differentiating objects use
    * Download: https://www.downloadkubernetes.com/
 1. Minikube
    * Download: https://minikube.sigs.k8s.io/docs/start/#what-youll-need
-1. Ansible
+1. Helm
+   * Download: https://helm.sh/docs/intro/install/
+3. Ansible
    * Download: https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-ansible-on-specific-operating-systems
