@@ -1,6 +1,9 @@
 # DevOps: Zero to Hero - Accounts and Tools
 All tools needed for the DevOps: Zero to Hero course
 
+## Course Content
+
+Interested in the course? All of the content can be found in [Google Drive](https://drive.google.com/drive/folders/1GStten6gATAjHqu6q2CNMbnb2r8rz_mT?usp=sharing).
 
 ## Accounts
 **You only need to sign up for these. We will go through the set up together**
